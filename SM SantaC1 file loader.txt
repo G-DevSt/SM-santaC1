@@ -1,0 +1,197 @@
+Test MyPlugin :
+
+activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
+
+showAdsCountBegin2showAdsCountLast
+orderMediationLinkBeginhttps://pastebin.com/raw/iKD1Cx4corderMediationLinkLast
+
+ADMOBIDBeginca-app-pub-3940256099942544~3347511713ADMOBIDLast
+ADMOBbanBeginca-app-pub-3940256099942544/6300978111ADMOBbanLast		
+ADMOBinterBeginca-app-pub-3940256099942544/1033173712ADMOBinterLast		
+ADMOBrewBeginca-app-pub-3940256099942544/5224354917ADMOBrewLast		
+
+FANbanBeginIMG_16_9_LINK#2109954819150266_2109957119150036FANbanLast
+FANinterBeginIMG_16_9_LINK#2109954819150266_2109960142483067FANinterLast
+FANrewBeginVID_HD_16_9_15S_APP_INSTALL#2109954819150266_2109961085816306FANrewLast 
+
+UnityGameIDBegin5173741UnityGameIDLast
+ 
+MAXsdkKeybanBeginVUM-9bIldS5mM5b250fPppI3iqXL8oCdGZcQ9w9oMEXkK8mP8QpyE6_xxWH3IUhT2JzCD6-aLVJfd34nUuik-hMAXsdkKeybanLast      uPHhzx8GDsA3qh8pqhg2knMTuZUeo1Jk3mW53qGl9g46tqJ_AUTiaNG2vLKOsc5sNwsimnXo6CgKac5lofLKJC
+MAXbanBegin8773e83979132d5aMAXbanLast      
+MAXinterBegin7c2294a50c14731bMAXinterLast        
+MAXrewBegin76a657a026ded010MAXrewLast    
+ 
+IsAppIDBegine5ad7fd9IsAppIDLast
+IsBannerIDBeginDefaultBannerIsBannerIDLast
+IsInterstitialIDBeginDefaultInterstitialIsInterstitialIDLast
+IsRewardIDBeginDefaultRewardedVideoIsRewardIDLast
+
+imageURLBeginhttps://play-lh.googleusercontent.com/dujhqfsabzHjJDYS4UYBXamOeI9E_LBfkxUtqNKPtCYj_7mEvuClAWq5YAQU33LaQRo=s48imageURLLast
+gameURLBeginhttps://play.google.com/store/apps/details?id=com.superking.parchisi.stargameURLLast
+
+rateUsLinkBeginrateUsLinkLast
+moreGamesLinkBeginmoreGamesLinkLast
+termsOfServiceLinkBegintermsOfServiceLinkLast
+
+
+isVendingBeginNOisVendingLast			YES to enable    Other or Empty to disable
+ 
+
+OrderFileBegin
+{
+    "bannerMediation": 0,
+    "interstitialMediation": 0,
+    "rewardedMediation": 0,
+    "advertisers": [{
+        "advertiser": 0,
+        "advertiserName": "Admob",
+        "bannerSettings": {
+            "adType": 1,
+            "orderAndroid": 1,
+            "orderiOS": 1,
+            "orderWindows": 1,
+            "weightAndroid": 1,
+            "weightiOS": 1,
+            "weightWindows": 1
+        },
+        "interstitialSettings": {
+            "adType": 2,
+            "orderAndroid": 1,
+            "orderiOS": 1,
+            "orderWindows": 1,
+            "weightAndroid": 1,
+            "weightiOS": 1,
+            "weightWindows": 1
+        },
+        "rewardedSettings": {
+            "adType": 3,
+            "orderAndroid": 1,
+            "orderiOS": 1,
+            "orderWindows": 1,
+            "weightAndroid": 1,
+            "weightiOS": 1,
+            "weightWindows": 1
+        }
+    }, {
+        "advertiser": 7,
+        "advertiserName": "Facebook",
+        "bannerSettings": {
+            "adType": 1,
+            "orderAndroid": 2,
+            "orderiOS": 2,
+            "orderWindows": 2,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "interstitialSettings": {
+            "adType": 2,
+            "orderAndroid": 2,
+            "orderiOS": 2,
+            "orderWindows": 2,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "rewardedSettings": {
+            "adType": 3,
+            "orderAndroid": 2,
+            "orderiOS": 2,
+            "orderWindows": 2,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        }
+    }, {
+        "advertiser": 6,
+        "advertiserName": "AppLovin",
+        "bannerSettings": {
+            "adType": 1,
+            "orderAndroid": 3,
+            "orderiOS": 3,
+            "orderWindows": 3,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "interstitialSettings": {
+            "adType": 2,
+            "orderAndroid": 5,
+            "orderiOS": 5,
+            "orderWindows": 5,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "rewardedSettings": {
+            "adType": 3,
+            "orderAndroid": 5,
+            "orderiOS": 5,
+            "orderWindows": 5,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        }
+    }, {
+        "advertiser": 9,
+        "advertiserName": "IronSource",
+        "bannerSettings": {
+            "adType": 1,
+            "orderAndroid": 4,
+            "orderiOS": 4,
+            "orderWindows": 4,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "interstitialSettings": {
+            "adType": 2,
+            "orderAndroid": 4,
+            "orderiOS": 4,
+            "orderWindows": 4,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "rewardedSettings": {
+            "adType": 3,
+            "orderAndroid": 4,
+            "orderiOS": 4,
+            "orderWindows": 4,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        }
+    }, {
+        "advertiser": 4,
+        "advertiserName": "Unity",
+        "bannerSettings": {
+            "adType": 1,
+            "orderAndroid": 0,
+            "orderiOS": 0,
+            "orderWindows": 0,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "interstitialSettings": {
+            "adType": 2,
+            "orderAndroid": 3,
+            "orderiOS": 3,
+            "orderWindows": 3,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        },
+        "rewardedSettings": {
+            "adType": 3,
+            "orderAndroid": 3,
+            "orderiOS": 3,
+            "orderWindows": 3,
+            "weightAndroid": 0,
+            "weightiOS": 0,
+            "weightWindows": 0
+        }
+    }]
+}
+OrderFileLast
