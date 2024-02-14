@@ -10,8 +10,8 @@
 {
 "Name": "",
 "Description": "",
-"IconUrl": "https://play-lh.googleusercontent.com/dGwxqH2_knW0X2xjXnQD4cgF7wg3EjVquLv0FbLKEhhfcoB8cozQ44TYFdD5_JuoIH3k=s48",
-"GameUrl": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2"
+"IconUrl": "",
+"GameUrl": ""
 },
 
 {
