@@ -1,6 +1,6 @@
 Test MyPlugin :
 
-activeAdsBeginNOactiveAdsLast		YES to enable    Other or Empty to disable
+activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 
 showAdsCountBegin2showAdsCountLast
 orderMediationLinkBeginhttps://pastebin.com/raw/iKD1Cx4corderMediationLinkLast
