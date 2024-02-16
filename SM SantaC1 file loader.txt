@@ -3,12 +3,12 @@ Test MyPlugin :
 activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 
 showAdsCountBegin2showAdsCountLast
-orderMediationLinkBeginhttps://pastebin.com/raw/iKD1Cx4corderMediationLinkLast
+orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/OrderFile.txtorderMediationLinkLast
 
 ADMOBIDBeginca-app-pub-3940256099942544~3347511713ADMOBIDLast
-ADMOBbanBeginca-app-pub-3940256099942544/6300978111ADMOBbanLast		
-ADMOBinterBeginca-app-pub-3940256099942544/1033173712ADMOBinterLast		
-ADMOBrewBeginca-app-pub-3940256099942544/5224354917ADMOBrewLast		
+ADMOBbanBeginca-app-pub-1917464341569137/6062261681ADMOBbanLast		
+ADMOBinterBeginca-app-pub-1917464341569137/4172070297ADMOBinterLast		
+ADMOBrewBeginca-app-pub-1917464341569137/8132508363ADMOBrewLast		
 
 FANbanBegin1051484449535256_1051536366196731FANbanLast
 FANinterBegin1051484449535256_1051536456196722FANinterLast
@@ -17,9 +17,9 @@ FANrewBegin1051484449535256_1051678572849177FANrewLast
 UnityGameIDBegin5147242UnityGameIDLast
  
 MAXsdkKeybanBeginVUM-9bIldS5mM5b250fPppI3iqXL8oCdGZcQ9w9oMEXkK8mP8QpyE6_xxWH3IUhT2JzCD6-aLVJfd34nUuik-hMAXsdkKeybanLast      uPHhzx8GDsA3qh8pqhg2knMTuZUeo1Jk3mW53qGl9g46tqJ_AUTiaNG2vLKOsc5sNwsimnXo6CgKac5lofLKJC
-MAXbanBegin8773e83979132d5aMAXbanLast      
-MAXinterBegin7c2294a50c14731bMAXinterLast        
-MAXrewBegin76a657a026ded010MAXrewLast    
+MAXbanBegin61d7539c58c60aceMAXbanLast      
+MAXinterBegin8f90966f1b9a6999MAXinterLast        
+MAXrewBeginad75e90f1338f81fMAXrewLast    
  
 IsAppIDBegin1d8e7ba85IsAppIDLast
 IsBannerIDBeginDefaultBannerIsBannerIDLast
