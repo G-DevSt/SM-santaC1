@@ -34,7 +34,7 @@ moreGamesLinkBeginmoreGamesLinkLast
 termsOfServiceLinkBegintermsOfServiceLinkLast
 
 
-isVendingBeginYESisVendingLast			YES to enable    Other or Empty to disable
+isVendingBeginNOisVendingLast			YES to enable    Other or Empty to disable
  
 
 OrderFileBegin{
