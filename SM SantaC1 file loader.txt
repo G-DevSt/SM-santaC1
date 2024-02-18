@@ -5,7 +5,7 @@ activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 showAdsCountBegin2showAdsCountLast
 orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/OrderFile.txtorderMediationLinkLast
 
-ADMOBIDBeginca-app-pub-3940256099942544~3347511713ADMOBIDLast
+ADMOBIDBeginca-app-pub-1917464341569137~2972112220ADMOBIDLast
 ADMOBbanBeginca-app-pub-1917464341569137/6062261681ADMOBbanLast		
 ADMOBinterBeginca-app-pub-1917464341569137/4172070297ADMOBinterLast		
 ADMOBrewBeginca-app-pub-1917464341569137/8132508363ADMOBrewLast		
