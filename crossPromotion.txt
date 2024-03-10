@@ -3,7 +3,7 @@
 {
 "Name": "",
 "Description": "",
-"IconUrl": "https://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/pic/evil%20granny.png",
+"IconUrl": "https://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/pic/pennywise.png",
 "GameUrl": "https://play.google.com/store/apps/details?id=com.pennywisegranny.granny.chaptertwo"
 },
 
