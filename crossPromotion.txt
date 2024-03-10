@@ -10,7 +10,7 @@
 {
 "Name": "",
 "Description": "",
-"IconUrl": "https://play-lh.googleusercontent.com/J7IzFA048_NUxWXyMfR1vXWgUTX7FGGiqkaFpGyA3-aUCUAuhflP0EZlop4y2sxBNoK_=w240-h480",
+"IconUrl": "https://raw.githubusercontent.com/G-DevSt/SM-santaC1/main/pic/evil%20granny.png",
 "GameUrl": "https://play.google.com/store/apps/details?id=maze.evilNun.scaryGranny"
 },
 
